@@ -1,3 +1,1 @@
-quay.io/kubevirt/cdi-apiserver:v1.65.0
-quay.io/kubevirt/cdi-controller:v1.65.0
-quay.io/kubevirt/cdi-uploadproxy:v1.65.0
+ghcr.io/naval-group/headlamp-kubevirt-oci:latest
