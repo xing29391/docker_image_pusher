@@ -1,1 +1,6 @@
-vllm/vllm-openai:qwen38
+quay.io/kubevirt/virt-api:v1.9.0 
+quay.io/kubevirt/virt-controller:v1.9.0 
+quay.io/kubevirt/virt-handler:v1.9.0 
+quay.io/kubevirt/virt-launcher:v1.9.0 
+quay.io/kubevirt/virt-exportserver:v1.9.0 
+quay.io/kubevirt/virt-exportproxy:v1.9.0
