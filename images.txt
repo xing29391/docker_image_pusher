@@ -12,7 +12,6 @@ quay.io/kubevirt/virt-operator:v1.8.4
 ghcr.io/k8snetworkplumbingwg/multus-cni:v4.1.4
 ghcr.io/k8snetworkplumbingwg/multus-dynamic-networks-controller:v0.3.7
 quay.io/kubevirt/vm-console-proxy:v0.8.0
-quay.io/kubevirt/virtio-container-disk:latest
 ghcr.io/k8snetworkplumbingwg/whereabouts:v0.9.4
 ghcr.io/headlamp-k8s/headlamp:v0.45.0
 node:lts-alpine
