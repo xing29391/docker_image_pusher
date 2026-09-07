@@ -8,12 +8,11 @@ quay.io/kubev2v/populator-controller:release-2.12
 quay.io/kubev2v/ovirt-populator:release-2.12
 quay.io/kubev2v/openstack-populator:release-2.12
 quay.io/kubevirt/aaq-operator:v1.7.0
-quay.io/kubevirt/cdi-cloner:v1.65.0
-quay.io/kubevirt/cdi-importer:v1.65.0
-quay.io/kubevirt/cdi-uploadhandler:v1.65.0
-quay.io/containerdisks/fedora:latest
-quay.io/containerdisks/ubuntu:latest
-quay.io/containerdisks/centos-stream:9
+quay.io/kubevirt/cdi-apiserver:v1.65.0
+quay.io/kubevirt/cdi-uploadproxy:v1.65.0
+quay.io/kubevirt/cdi-uploadserver:v1.65.0
+quay.io/kubevirt/virt-exportserver:v1.9.0 
 quay.io/jetstack/cert-manager-controller:v1.15.3
 quay.io/jetstack/cert-manager-webhook:v1.15.3
 quay.io/jetstack/cert-manager-cainjector:v1.15.3
+quay.io/kubevirt/cdi-controller:v1.65.0
