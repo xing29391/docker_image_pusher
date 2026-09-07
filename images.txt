@@ -1,5 +1,3 @@
-ghcr.io/mrybas/kubevirt-ui/backend
-ghcr.io/mrybas/kubevirt-ui/frontend
-ghcr.io/dexidp/dex
-lldap/lldap
-ghcr.io/mrybas/kubevirt-ui/operator
+quay.io/kubevirt/cdi-importer:v1.65.0
+quay.io/kubevirt/cdi-cloner:v1.65.0
+quay.io/kubevirt/aaq-operator:v1.7.0
