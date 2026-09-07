@@ -3,7 +3,6 @@ quay.io/kubev2v/forklift-ova-proxy:release-2.12
 quay.io/kubev2v/forklift-api:release-2.12
 quay.io/kubev2v/forklift-ova-provider-server:release-2.12
 quay.io/kubev2v/forklift-virt-v2v:release-2.12
-quay.io/kubev2v/forklift-console-plugin:release-2.12
 quay.io/kubev2v/forklift-validation:release-2.12
 quay.io/kubev2v/populator-controller:release-2.12
 quay.io/kubev2v/ovirt-populator:release-2.12
