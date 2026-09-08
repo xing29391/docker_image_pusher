@@ -1,8 +1,1 @@
-registry-1.docker.io/bitnami/postgresql:latest
-registry-1.docker.io/bitnami/postgres-exporter:latest
-registry-1.docker.io/bitnami/os-shell:latest
-registry-1.docker.io/bitnami/redis:latest
-registry-1.docker.io/bitnami/redis-sentinel:latest
-registry-1.docker.io/bitnami/redis-exporter:latest
-registry-1.docker.io/bitnami/kubectl:latest
-registry-1.docker.io/bitnami/os-shell:latest
+ghcr.io/getarcaneapp/manager:latest
