@@ -1,5 +1,8 @@
-docker.io/jumpserver/core:v4.10.19-ce
-docker.io/jumpserver/koko:v4.10.19-ce
-docker.io/jumpserver/lion:v4.10.19-ce
-docker.io/jumpserver/chen:v4.10.19-ce
-docker.io/jumpserver/web:v4.10.19-ce
+bitnami/postgresql:18.6.0
+bitnami/postgres-exporter:0.20.1
+bitnami/os-shell:5
+bitnami/redis:8.10.1
+bitnami/redis-sentinel:8.10.1
+bitnami/redis-exporter:1.90.0
+bitnami/kubectl:1.37.0
+bitnami/os-shell:5
