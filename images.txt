@@ -1,1 +1,1 @@
-ghcr.io/getarcaneapp/manager:latest
+jumpserver/ansible-executor:latest
