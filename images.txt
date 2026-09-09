@@ -1,1 +1,1 @@
-jumpserver/ansible-executor:latest
+ghcr.io/k8snetworkplumbingwg/multus-cni:v4.3.1
