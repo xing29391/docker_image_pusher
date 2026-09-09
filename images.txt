@@ -1,3 +1,1 @@
-ghcr.io/k8snetworkplumbingwg/multus-cni:v4.3.0
-ghcr.io/k8snetworkplumbingwg/multus-cni:snapshot
-ghcr.io/k8snetworkplumbingwg/multus-cni:latest
+busybox:latest
