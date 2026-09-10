@@ -1,4 +1,1 @@
-calciumion/new-api:latest
-docker.io/postgres:16-alpine
-docker.io/redis:7.4.7-alpine
-docker.io/osixia/keepalived:2.3.4
+kubevirt/virtio-container-disk
