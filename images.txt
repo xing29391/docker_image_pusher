@@ -1,1 +1,1 @@
-pgvector/pgvector:0.8.6-pg17
+docker.io/grafana/tempo:3.0.2
