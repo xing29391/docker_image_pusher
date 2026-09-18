@@ -1,1 +1,4 @@
-docker.io/grafana/tempo:3.0.2
+projecthami/hami:v2.9.0
+docker.io/jettech/kube-webhook-certgen:v1.5.2
+liangjw/kube-webhook-certgen:v1.1.1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.36.4
