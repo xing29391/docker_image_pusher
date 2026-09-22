@@ -1,1 +1,2 @@
-projecthami/hami:v2.10.0
+postgres:18
+kestra/kestra:latest
