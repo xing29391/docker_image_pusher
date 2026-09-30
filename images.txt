@@ -1,2 +1,3 @@
-postgres:18
-kestra/kestra:latest
+docker.io/jenkins/jenkins:2.568.3-jdk21
+docker.io/kiwigrid/k8s-sidecar:2.11.2
+jenkins/inbound-agent:3385.vf1123fb_515da_-1
