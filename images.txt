@@ -1,9 +1,6 @@
-docker-registry3.mariadb.com/mariadb-operator/mariadb-operator:25.10.2
-foundationdb/fdb-kubernetes-monitor:7.1.67
-foundationdb/fdb-kubernetes-monitor:7.3.63
-foundationdb/fdb-kubernetes-monitor:7.4.1
-foundationdb/fdb-kubernetes-operator:v2.30.0
-ghcr.io/cloudnative-pg/cloudnative-pg:1.27.3
-rabbitmqoperator/cluster-operator:2.9.0
-rabbitmqoperator/messaging-topology-operator:1.14.2
-victoriametrics/operator:v0.68.4
+ghcr.io/cozystack/cozystack/cozystack-controller:v1.6.0-rc.4@sha256:b01f6fe6e8fe6426b112fbda2b4abac946b4e45cd118137c9001c9e6ee784b3d
+ghcr.io/cozystack/cozystack/cozystack-scheduler:v0.3.0@sha256:89c285c5c5fe3ed8d7d597acf32fc9f045394e0f8efafd1878d6080cf112f6c2
+percona/percona-server-mongodb-operator:1.22.0
+registry.k8s.io/autoscaling/vpa-admission-controller:1.5.1
+registry.k8s.io/autoscaling/vpa-recommender:1.5.1
+registry.k8s.io/autoscaling/vpa-updater:1.5.1
