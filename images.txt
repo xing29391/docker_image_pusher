@@ -1,5 +1,10 @@
-ghcr.io/fluxcd/source-controller:v1.8.0
-ghcr.io/fluxcd/kustomize-controller:v1.8.0 
-ghcr.io/fluxcd/helm-controller:v1.5.0
-ghcr.io/fluxcd/notification-controller:v1.8.0
-ghcr.io/fluxcd/source-watcher:v2.1.0 
+altinity/clickhouse-operator:0.25.2
+altinity/metrics-exporter:0.25.2
+ghcr.io/cozystack/cozystack/backup-controller:v1.6.0-rc.4@sha256:fc457135…
+ghcr.io/cozystack/cozystack/grafana-dashboards:v1.6.0-rc.4@sha256:cb22416b…
+ghcr.io/cozystack/cozystack/objectstorage-controller:v1.6.0-rc.4@sha256:9c284ef4…
+ghcr.io/cozystack/cozystack/redis-operator:v1.3.0-rc1@sha256:a4012e6a…
+ghcr.io/grafana/grafana-operator:v5.13.0
+opensearchproject/opensearch-operator:2.8.0
+quay.io/brancz/kube-rbac-proxy:v0.15.0
+quay.io/strimzi/operator:0.45.1-rc1
