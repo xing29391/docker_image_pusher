@@ -1,6 +1,8 @@
-ghcr.io/cozystack/cozystack/cozystack-controller:v1.6.0-rc.4@sha256:b01f6fe6e8fe6426b112fbda2b4abac946b4e45cd118137c9001c9e6ee784b3d
-ghcr.io/cozystack/cozystack/cozystack-scheduler:v0.3.0@sha256:89c285c5c5fe3ed8d7d597acf32fc9f045394e0f8efafd1878d6080cf112f6c2
-percona/percona-server-mongodb-operator:1.22.0
-registry.k8s.io/autoscaling/vpa-admission-controller:1.5.1
-registry.k8s.io/autoscaling/vpa-recommender:1.5.1
-registry.k8s.io/autoscaling/vpa-updater:1.5.1
+cr.fluentbit.io/fluent/fluent-bit:3.2.8
+ghcr.io/cozystack/cozystack/cozystack-api:v1.6.0-rc.4@sha256:c4d374a9bc5e6f6e66d24b29396f1eae9d7f06fd268ff767d05c45ca35e84e2e
+ghcr.io/cozystack/cozystack/lineage-controller-webhook:v1.6.0-rc.4@sha256:3a5b4951a78d507eb847f4f3311052810dc658fd7c85c49eeb32ac5469cb39a2
+ghcr.io/cozystack/etcd-operator:v0.5.2
+quay.io/prometheus/node-exporter:v1.9.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
+victoriametrics/operator:config-reloader-v0.68.4
+victoriametrics/vmagent:v1.136.0
