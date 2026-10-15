@@ -1,2 +1,2 @@
-ghcr.io/cozystack/cozystack/cozystack-ui:v1.6.0-rc.4@sha256:ad0e132ce506bbc9e0f6a5dfb94311c9bbc08da3d8eca84eb0e527ba6c1a8897
-ghcr.io/cozystack/cozystack/token-proxy:v1.6.0-rc.4@sha256:97124c012246c33cdcac60e8f884097b48c0081624716fe8161efc2b3ceeb2a8
+ghcr.io/cozystack/cozystack/flux-plunger:latest@sha256:6a6ec938973e6583c5e1573f7d25beddc1852a6699a089116b2407e29a564a72
+ghcr.io/cozystack/cozystack/flux-shard-operator:v1.6.0-rc.4@sha256:daf002af34671371646185d4135c5096f8aba9518f132089bd5d6fbe7d9d06e7
