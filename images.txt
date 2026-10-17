@@ -1,3 +1,2 @@
-docker.io/velero/velero:v1.18.1
-velero/velero-plugin-for-aws:v1.14.1
-quay.io/kubevirt/kubevirt-velero-plugin:v0.9.0
+zabbix/zabbix-server-pgsql:alpine-trunk
+zabbix/zabbix-web-service:alpine-trunk
