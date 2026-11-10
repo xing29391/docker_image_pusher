@@ -1,2 +1,3 @@
-zabbix/zabbix-server-pgsql:alpine-trunk
-zabbix/zabbix-web-service:alpine-trunk
+ghcr.io/multica-ai/multica-backend:latest
+ghcr.io/multica-ai/multica-web:latest
+docker.io/pgvector/pgvector:pg17
