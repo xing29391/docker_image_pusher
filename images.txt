@@ -1,1 +1,1 @@
-samanhappy/mcphub
+samanhappy/mcphub:latest
